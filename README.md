@@ -1,4 +1,9 @@
-# CCS-Github
+# CCS-Github 
+
+Rishit Darwade
+
+1st Dec, 2023
+
 ## *Part 1-Installation*
 
 a. https://www.ti.com/tool/CCSTUDIO
